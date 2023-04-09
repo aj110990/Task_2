@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/aj110arjun/Task_2/static/css/main.372ccf5b.css",
+    "main.js": "/aj110arjun/Task_2/static/js/main.9562de45.js",
+    "static/js/787.aad65a53.chunk.js": "/aj110arjun/Task_2/static/js/787.aad65a53.chunk.js",
+    "static/media/landingpagevector.png": "/aj110arjun/Task_2/static/media/landingpagevector.15eeefec22d13deb8203.png",
+    "static/media/plantshop-landiing-page.jpg": "/aj110arjun/Task_2/static/media/plantshop-landiing-page.69355190518af9ec4b56.jpg",
+    "static/media/vps-landing-page.jpg": "/aj110arjun/Task_2/static/media/vps-landing-page.7d865cfa98262cc34415.jpg",
+    "static/media/book landing-page.jpg": "/aj110arjun/Task_2/static/media/book landing-page.1c83396c019f37630f33.jpg",
+    "static/media/artdirection.svg": "/aj110arjun/Task_2/static/media/artdirection.bd65f67ab709086d43b928fff69f0c67.svg",
+    "static/media/casa-logo.svg": "/aj110arjun/Task_2/static/media/casa-logo.0ef18ba8043d4590408e2e6acbc25817.svg",
+    "static/media/prototype.svg": "/aj110arjun/Task_2/static/media/prototype.369f016f774503c01802de8e99bf7a51.svg",
+    "static/media/visual.svg": "/aj110arjun/Task_2/static/media/visual.6f35873a8b061ab77d32e5788bd8dfc8.svg",
+    "static/media/telegram.svg": "/aj110arjun/Task_2/static/media/telegram.c8bb82315f16d50672daca10c7a3566f.svg",
+    "static/media/userresearch.svg": "/aj110arjun/Task_2/static/media/userresearch.a250898a51ed812e345c0b78ddae62b7.svg",
+    "static/media/wireframe.svg": "/aj110arjun/Task_2/static/media/wireframe.5d229a0f8dc875505e91f412902917ea.svg",
+    "static/media/dribbleicon.svg": "/aj110arjun/Task_2/static/media/dribbleicon.aa2efdda08b19386ebbbd76f1386f963.svg",
+    "static/media/instaicon.svg": "/aj110arjun/Task_2/static/media/instaicon.c6e3deee4d25ac7a7b4102fa066eaee0.svg",
+    "static/media/ux.svg": "/aj110arjun/Task_2/static/media/ux.223be9846c937dd219b22dabcb867349.svg",
+    "static/media/behanceicon.svg": "/aj110arjun/Task_2/static/media/behanceicon.c465573670cfdd4198621966d4a9ec5b.svg",
+    "static/media/uparrow.svg": "/aj110arjun/Task_2/static/media/uparrow.e534361febd7a28013af4239d8211319.svg",
+    "index.html": "/aj110arjun/Task_2/index.html",
+    "static/media/arrow.svg": "/aj110arjun/Task_2/static/media/arrow.3e6d5a9c59f1dc6c2a10bb0027fcae51.svg",
+    "main.372ccf5b.css.map": "/aj110arjun/Task_2/static/css/main.372ccf5b.css.map",
+    "main.9562de45.js.map": "/aj110arjun/Task_2/static/js/main.9562de45.js.map",
+    "787.aad65a53.chunk.js.map": "/aj110arjun/Task_2/static/js/787.aad65a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372ccf5b.css",
+    "static/js/main.9562de45.js"
+  ]
+}
